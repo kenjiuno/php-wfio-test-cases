@@ -1,0 +1,11 @@
+{
+  "name": "kenjiuno/getid3-with-wfio",
+  "authors": [{
+    "name": "kenjiuno"
+  }],
+  "require": {
+    "phpunit/phpunit": "5.7.27",
+    "ext-wfio": "0.1",
+    "james-heinrich/getid3": "^1.9"
+  }
+}
